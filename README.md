@@ -1,8 +1,5 @@
 # Menu do Restaurante Saveur Sucrée
 
-<img src="https://github.com/wilson-castro/TIC-course-final-project/assets/80500276/74b201c6-5156-48b1-981e-165c123bd1a9" width="200px"/>
-<img src="https://github.com/wilson-castro/TIC-course-final-project/assets/80500276/ca05a7ce-5b16-482d-918e-68f4edb3aa58" width="200px"/>
-
 # Tópicos
 <p align = "center"> 
   <a href = "#objetivo">Objetivo</a> •
