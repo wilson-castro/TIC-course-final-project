@@ -34,7 +34,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAwbitBhDIARIsABfFYIKcKVSJWQ5XWfe9gjjsniw3JekPwuTskhbxgZXrEDti0eQ3f-G6ZvAaAvg8EALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
 # Autor
-Eu me Wilson Castro, sou desenvolvedor FullStack e granduando em Sistemas de Informação pela Unifametro (UFC).
+Eu me chamo Wilson Castro, sou desenvolvedor FullStack e granduando em Sistemas de Informação pela Unifametro (UFC).
 Atualmente, atuo no desenvolvimento do projeto [BigData Fortaleza](https://bigdata.fortaleza.ce.gov.br/)
 Entre em contato:
 - [![Linkedin Badge](https://img.shields.io/badge/-Wilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-costa-de-castro-26945121a/)](https://www.linkedin.com/in/wilson-costa-de-castro-26945121a/) 
