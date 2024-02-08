@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RestauranteMenu</string>
+    <string name="restaurant_name">Creme dela creme</string>
+    <string name="sopa_cebola">Sopa de Cebola</string>
+    <string name="sopa_cebola_descricao">Uma deliciosa sopa de cebola gratinada.</string>
+    <string name="tournedos">Tournedos</string>
+    <string name="tournedos_descricao">Bifes de filé mignon servidos com molho.</string>
+    <string name="petit_gateau">Petit Gateau</string>
+    <string name="petit_gateau_descricao">Um pequeno bolo de chocolate com recheio líquido.</string>
+    <string name="vinho_tinto">Vinho Tinto</string>
+    <string name="vinho_tinto_descricao">Um vinho tinto encorpado.</string>
+    <string name="bruschetta">Bruschetta</string>
+    <string name="bruschetta_descricao">Fatias de pão italiano grelhadas cobertas com tomate, manjericão e alho.</string>
+    <string name="pasta_carbonara">Pasta Carbonara</string>
+    <string name="pasta_carbonara_descricao">Massa italiana com molho de ovo, queijo, pancetta e pimenta-do-reino.</string>
+    <string name="tiramisu">Tiramisu</string>
+    <string name="tiramisu_descricao">Uma sobremesa italiana feita com camadas de biscoitos, café, queijo mascarpone e cacau.</string>
+    <string name="cerveja">Cerveja</string>
+    <string name="cerveja_descricao">Uma cerveja gelada e refrescante.</string>
+    <string name="prepare_time">Tempo de preparo: %.0f</string>
+    <string name="prepare_time_null">Tempo de preparo: Este item não requer tempo de preparo.</string>
+    <string name="price">Preço: R$ %.2f</string>
+    <string name="finish_order">Finalizar</string>
+    <string name="total">Total: R$ %.2f</string>
+    <string name="item_list">Lista de itens: </string>
+    <string name="dish_list_empty">Escolha pelo menos um prato para finalizar o pedido</string>
+    <string name="order_finished">Seu pedido foi enviado para o balcão do restaurante</string>
+    <string name="observations">Observações do seu pedido</string>
+</resources>
